@@ -7,6 +7,7 @@ This code includes data scraping of all the sub-categories of COMPUTER Category 
 
 Using Task 1 file, you can scrape the data and save the data in "DVIZ Test.xlsx" file. 
 Using Task 2 file, you can view and convert the specific category prodcuts into a list.
+It also includes an xlsx file, which is basically a test output of 5 pages of every category.
 
 I have used chrome web driver, but you can use anyother and for that you have to change the code as well.
 
